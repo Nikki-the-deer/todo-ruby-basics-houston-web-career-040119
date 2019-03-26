@@ -16,7 +16,7 @@ end
 
 def return_a_value
   nice == "Nice"
-  puts nice
+  nice
 end
 
 def last_evaluated_value
