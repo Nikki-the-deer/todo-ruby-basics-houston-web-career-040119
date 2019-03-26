@@ -15,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-  nice == "Nice"
+  def nice == "Nice"
   nice
 end
 
